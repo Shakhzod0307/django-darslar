@@ -1,3 +1,3 @@
-# Django3 - Pythonda Full-Stack Web Dasturlash kursining kodlari
+# I got this project from anvarnarz/django-darslari to learning
 
 Dars manzili: https://mohirdev.uz/courses/django
